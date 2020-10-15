@@ -1,0 +1,54 @@
+.reports__image {
+  margin-right: 10px;
+}
+
+.reports__images {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10px;
+  flex-wrap: wrap;
+  padding-top: 20px;
+}
+
+.row.reports_nav {
+  border-bottom: 1px solid lightgray;
+  padding-bottom: 10px;
+}
+
+.status_text {
+  margin-right: 10px;
+}
+
+.fa.fa-circle {
+}
+
+.status_item {
+  height: 100%;
+}
+
+.fa.fa-circle.d-xl-flex.justify-content-xl-center.align-items-xl-center {
+  margin: auto 0;
+}
+
+.d-xl-flex.justify-content-xl-center.align-items-xl-center.status_text {
+  margin: auto 0;
+}
+
+.status_item {
+  margin: auto 0;
+}
+
+.status_text {
+  margin-right: 10px;
+}
+
+.progress, .progress-bar {
+  width: 150px;
+}
+
+.infometric_graph_row {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 40px;
+}
+
